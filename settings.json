@@ -1,0 +1,12 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Sheetal\\Desktop\\Sheeeeetal DG Model\\Background-Removal-using-Deep-Learning\\venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\Sheetal\\Desktop\\Sheeeeetal DG Model\\Background-Removal-using-Deep-Learning\\venv\\Lib\\site-packages"
+  ],
+  "python.analysis.indexing": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.diagnosticMode": "openFilesOnly",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none"
+  }
+}

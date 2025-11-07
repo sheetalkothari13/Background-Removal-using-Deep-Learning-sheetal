@@ -1,0 +1,6 @@
+dataset_dir: "https://drive.google.com/file/d/1x6YR7V1-Z3NoUqCf_S6_AnrJ8pHS-kj7/view?usp=sharing"
+outputs_subdir: "outputs"
+
+# === Names of output files ===
+model_filename: "model.keras"
+log_filename: "training_log.csv"

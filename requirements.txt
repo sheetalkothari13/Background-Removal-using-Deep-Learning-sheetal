@@ -1,0 +1,11 @@
+tensorflow==2.20.0
+numpy
+pandas
+opencv-python-headless
+scikit-learn
+scipy
+psutil
+
+flytekit==1.13.0
+pyyaml
+tqdm 
